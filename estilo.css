@@ -1,0 +1,103 @@
+
+body{
+    background: #fefabd;
+}
+
+
+.custom-navbar {
+    background-color: #3c529a;
+}
+
+.custom-navbar .nav-link {
+    color: #fefabd;
+}
+
+.custom-navbar .nav-link:hover {
+    color: #d5dfff;
+}
+.icono-navbar {
+    color: #fefabd;
+    font-size: 20px;
+}
+.icono-navbar:hover {
+    color: #d5dfff;
+}
+
+
+.profile-img {
+    width: 250px;
+    height: 250px;
+    border: #3c529a 2px solid;
+    object-fit: cover; 
+}
+h1,h2{
+    color: #3c529a;
+}
+h3{
+    color: #fefabd;
+}
+p{
+    color: #272727;
+}
+
+
+#experiencia {
+    background-color: #fefabd;
+    color: #ffffff;
+}
+#experiencia .card {
+    background-color: #ffffff;
+    color: #3c529a;
+}
+#experiencia .card {
+    border: 2px solid #3c529a;
+}
+.icono-experiencia {
+    color: #3c529a;
+    font-size: 2rem;
+}
+
+
+#proyectos .card {
+    background-color: #ffffff;
+    color: #3c529a;
+    border: 2px solid #3c529a;
+}
+.btn-ver-mas {
+    background-color: #3c529a;
+    color: #ffffff;
+}
+
+#articulos .card{
+    border: 2px solid #3c529a;
+}
+
+
+
+testimonios{
+    background-color: #fefabd;
+}
+.clientes-img {
+    width: 150px;
+    height: 150px;
+    border: #3c529a 2px solid;
+    object-fit: cover; 
+}
+
+
+#contacto {
+    background-color: #3c529a;
+    color: #ffffff;
+}
+#contacto a i {
+    color: #fefabd;
+    font-size: 24px;
+    transition: color 0.3s ease;
+}
+#contacto a i:hover {
+    color: #d5dfff;
+}
+.btn-enviar{
+    background-color: #fefabd;
+    color: #3c529a;
+}
